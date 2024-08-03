@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 
 git test
 
-Creating a new branch is quick AND simple.
+Creating a new branch is quick. now in branch dev
+
